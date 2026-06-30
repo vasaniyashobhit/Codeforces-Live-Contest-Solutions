@@ -12,3 +12,9 @@ Each folder represents one Codeforces round:
 
 ## 🔗 Profile
 - [Codeforces — ShobhitVasaniya](https://codeforces.com/profile/ShobhitVasaniya)
+
+## 📊 Solved Rounds
+
+| Round | Problems | Contest Link |
+|---|---|---|
+| [Round 1106](Round-1106) | A, B, C | [View Contest](https://codeforces.com/contest/1106) |
